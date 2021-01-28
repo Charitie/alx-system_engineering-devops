@@ -33,5 +33,6 @@ _chmod -R a+x dir*_ A command used to change permissions to subdirectories **dir
 
 **chown -h User[:Group] File(s)** A command to changes the owner and the group owner of the file.
 
+**chown --from=:CurrentGroup :NewGroup FILE** A command to change group owner with a condition.
 
 
