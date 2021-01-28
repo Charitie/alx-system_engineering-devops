@@ -1,14 +1,14 @@
 # alx-system_engineering-devops
 How shell permissions work.
 
-**usermod** A script that changes your user ID.
+**usermod** A command that changes your user ID.
 
-**id -u** A script that prints the numeric user id of the current user.
+**id -u** A command that prints the numeric user id of the current user.
 
-**groups** A script that prints all the groups the current user is part of.
+**groups** A command that prints all the groups the current user is part of.
 
-**chown** A script that changes the owner of the file.
+**chown** A command that changes the owner of the file.
 
- 
+**touch** A command to create a new empty file. 
 
 
