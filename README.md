@@ -27,6 +27,7 @@ _chmod -R a+x dir*_ A command used to change permissions to subdirectories **dir
 
 **mkdir -m 751 dir_holberton** A command to create directory **"dir_holberton"** with permissions 751.
 
+**chgrp** A command to change file group ownership.
 
 
 
