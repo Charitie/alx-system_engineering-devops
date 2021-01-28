@@ -29,8 +29,7 @@ _chmod -R a+x dir*_ A command used to change permissions to subdirectories **dir
 
 **chgrp** A command to change file group ownership.
 
-**chown [OPTIONS] USER[:GROUP] FILE(s)** A command to change both Owner and group name.
-
+**own [OPTIONS] USER[:GROUP] FILE(s)** A command to change both owner and group owner name.
 
 
 
