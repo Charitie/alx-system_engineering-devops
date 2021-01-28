@@ -19,5 +19,6 @@ How shell permissions work.
 
 **chmod ug=, o=rwx** A command that sets all permissions to other user and no permissions to user and groups.
 
+**chmod 1113** A command to set file permissions as **-rwxr-x-wx-**.
 
 
