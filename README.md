@@ -13,5 +13,10 @@ How shell permissions work.
 
 **chmod u+x** A command that adds execute permission to the owner of the file.
 
-**ug+x, o+r** A command adds file execute permission to the owner and the group owner, and read permission to other users.
+**chmod ug+x, o+r** A command adds file execute permission to the owner and the group owner, and read permission to other users.
+
+**chmod a+x** A command that adds execution permission to the owner, the group owner and the other users for a file.
+
+
+
 
