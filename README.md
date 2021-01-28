@@ -11,4 +11,6 @@ How shell permissions work.
 
 **touch** A command to create a new empty file. 
 
+**chmod u+x** A command that adds execute permission to the owner of the file.
+
 
