@@ -17,6 +17,7 @@ How shell permissions work.
 
 **chmod a+x** A command that adds execution permission to the owner, the group owner and the other users for a file.
 
+**chmod ug=, o=rwx** A command that sets all permissions to other user and no permissions to user and groups.
 
 
 
