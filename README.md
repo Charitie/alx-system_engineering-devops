@@ -1,7 +1,7 @@
 # alx-system_engineering-devops
 How shell permissions work.
 
-**su** A command that changes your user ID.
+**su betty** A script that changes your user ID to betty.
 
 **id -u** A command that prints the numeric user id of the current user.
 
