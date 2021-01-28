@@ -23,12 +23,13 @@ How shell permissions work.
 
 **chmod a=r,ug=w** A command to set file permissions as **-rw-rw-r--**.
 
-_chmod -R a+x dir*_ A command used to change permissions to subdirectories **dir**  only"
+_chmod -R a+x dir*_ A command used to change permissions to subdirectories **dir**  only.
 
 **mkdir -m 751 dir_holberton** A command to create directory **"dir_holberton"** with permissions 751.
 
 **chgrp** A command to change file group ownership.
 
+**chown [OPTIONS] USER[:GROUP] FILE(s)** A command to change both Owner and group name.
 
 
 
