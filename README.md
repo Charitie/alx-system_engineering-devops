@@ -23,3 +23,10 @@ How shell permissions work.
 
 **chmod a=r,ug=w** A command to set file permissions as **-rw-rw-r--**.
 
+_chmod -R a+x dir*_ A command used to change permissions to subdirectories **dir**  only"
+
+
+
+
+
+
