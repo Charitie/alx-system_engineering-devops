@@ -1,7 +1,7 @@
 # alx-system_engineering-devops
 How shell permissions work.
 
-**usermod** A command that changes your user ID.
+**su** A command that changes your user ID.
 
 **id -u** A command that prints the numeric user id of the current user.
 
