@@ -25,6 +25,9 @@ How shell permissions work.
 
 _chmod -R a+x dir*_ A command used to change permissions to subdirectories **dir**  only"
 
+**mkdir -m 751 dir_holberton** A command to create directory **"dir_holberton"** with permissions 751.
+
+
 
 
 
